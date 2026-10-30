@@ -106,7 +106,7 @@ ip a
 
 **Screenshot 4: Kali Linux IP Configuration**
 
-![Kali Linux IP Configuration](Kali%20Linux%20IP%20Configuration.png)
+![Kali Linux IP Configuration](kali-ip.png)
 
 ### Step 9. Create a VM Snapshot
 
