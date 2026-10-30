@@ -65,7 +65,7 @@ This allows Kali Linux to access the network through the host computer.
 
 **Screenshot 1: VMware Network Settings**
 
-![VMware Network Settings](1-screenshot-vmware-network-settings.png)
+![VMware Network Settings](VMware%20Network%20Settings.png)
 
 ### Step 4. Download and Open Kali Linux
 
@@ -73,7 +73,7 @@ I downloaded the Kali Linux VMware image from the official website, extracted it
 
 **Screenshot 2: Kali Linux in VMware**
 
-![Kali Linux VM](2-screenshot-kali-linux.png)
+![Kali Linux in VMware](Kali%20Linux%20in%20VMware.png)
 
 ### Step 5. Configure Network Adapter
 
@@ -94,7 +94,7 @@ I configured the IPv4 settings manually with the following details:
 
 **Screenshot 3: Kali Linux Network Settings**
 
-![Kali Network Settings](3-screenshot-kali-network-settings.png)
+![Kali Network Settings](Kali%20Network%20Settings.png)
 
 ### Step 8. Verify Network Configuration
 
@@ -106,7 +106,7 @@ ip a
 
 **Screenshot 4: Kali Linux IP Configuration**
 
-![Kali IP Configuration](4-screenshot-kali-ip-configuration.png)
+![Kali Linux IP Configuration](Kali%20Linux%20IP%20Configuration.png)
 
 ### Step 9. Create a VM Snapshot
 
