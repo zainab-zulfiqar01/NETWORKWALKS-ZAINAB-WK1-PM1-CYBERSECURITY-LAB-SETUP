@@ -107,7 +107,6 @@ ip a
 **Screenshot 4: Kali Linux IP Configuration**
 
 ![Kali Linux IP Configuration](Kali%20Linux%20IP%20Configuration.png)
-
 ### Step 9. Create a VM Snapshot
 
 After configuring the virtual machine, I created a snapshot in VMware Workstation Pro so I could restore the lab to its initial state if needed.
